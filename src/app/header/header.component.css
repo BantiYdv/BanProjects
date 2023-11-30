@@ -41,4 +41,6 @@ nav ul li a span{
 ul{
     display: flex;
 }
-
+a img{
+    height: 1rem;
+}
